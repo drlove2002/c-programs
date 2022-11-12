@@ -1,0 +1,17 @@
+# ninja log v5
+1	263	6764498363627888	build.ninja	6d5c435c43b3820b
+3	335	6753449702034274	CMakeFiles/kruskal.dir/kruskal.c.obj	178e7207dfa030fb
+0	147	6721721943910823	CMakeFiles/graph.dir/prims.c.obj	6b9dc58d95bd64aa
+2	119	6753318661827739	CMakeFiles/prims.dir/prims.c.obj	9e694458d53950ff
+149	367	6721721946040741	graph.exe	65c569f782791f9d
+336	683	6753449705694281	kruskal.exe	e7b12154b80a87d
+3	146	6747269765715833	CMakeFiles/graph_coloring.dir/graph_coloring.c.obj	c89e57e12666b1a1
+147	311	6747269767295735	graph_coloring.exe	b224266e2d3bec59
+119	270	6753318663267732	prims.exe	6f75080d3573a1f
+3	173	6753285745648078	CMakeFiles/djikstra.dir/djikstra.c.obj	3d7415200502fb87
+174	357	6753285747428039	djikstra.exe	ed7e3a2ade293b1d
+2	135	6753469549659729	CMakeFiles/djikstra_test.dir/djikstra_aniket.c.obj	4ba59b0302ac3c3
+135	329	6754099273784900	djikstra_test.exe	d908fce62fc58279
+2	134	6754099271894978	CMakeFiles/djikstra_test.dir/testing.c.obj	1a62771505367a7d
+2	123	6754314108998759	CMakeFiles/test.dir/testing.c.obj	c5aede8f1dc004d
+124	273	6754314110448828	test.exe	b6e7155d4e372881

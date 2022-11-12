@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "sstream": "c",
+        "algorithm": "c",
+        "string_view": "c",
+        "time.h": "c",
+        "unistd.h": "c"
+    }
+}
